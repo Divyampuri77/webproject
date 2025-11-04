@@ -1,0 +1,12 @@
+{
+  "PORT": 3000,
+  "DB_URI": "mongodb+srv://arshiasapra17_db_user:bforbauni123@cluster0.jjnndau.mongodb.net/",
+  "JWTKEY": "blinding_by_the_lights",
+  "JWT_EXPIRES_IN": "7d",
+  "CLIENT_ORIGIN": "http://localhost:5173",
+  "SEND_SMS": true,
+  "TWILIO_ACCOUNT_SID": "AC8bfa63f7dd7471c550d2c45fc8fb8650",
+  "TWILIO_AUTH_TOKEN": "f0983d6686b857c1c11d2fe3ce854b52",
+  "TWILIO_PHONE_NUMBER": "+1234567890",
+  "NODE_ENV": "development"
+}
